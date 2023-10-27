@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+# ChatGPT: Recriando do Zero
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bem-vindo ao ChatGPT: Recriando do Zero! Este é um projeto open-source que recria a funcionalidade básica do ChatGPT, permitindo que os usuários conversem em tempo real com o modelo GPT-3.5 da OpenAI. Esta aplicação demonstra habilidades em desenvolvimento back-end, front-end e integração com APIs.
 
-## Available Scripts
+## Tecnologias Utilizadas
 
-In the project directory, you can run:
+- **Node.js:** Plataforma de execução de código JavaScript do lado do servidor.
+- **Express.js:** Framework web para Node.js, facilitando a criação de APIs RESTful e aplicativos web.
+- **Socket.io:** Biblioteca JavaScript para aplicativos web em tempo real, permitindo comunicação bidirecional entre clientes e servidor.
+- **HTML, CSS e JavaScript:** Tecnologias padrão para o desenvolvimento front-end do projeto.
 
-### `npm start`
+## Funcionalidades do Projeto
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Chat em Tempo Real:** Os usuários podem participar de salas de chat em tempo real.
+- **Integração com ChatGPT:** O chat permite que os usuários conversem com o modelo GPT-3.5, proporcionando uma experiência interativa.
+- **Interface Amigável:** O front-end foi desenvolvido para proporcionar uma experiência de usuário intuitiva e agradável.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Contribua
 
-### `npm test`
+Este é um projeto feito por Nilson Filho. Para contribuir, siga as orientações abaixo:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+⚠️ Resolvendo, respondendo ou indicando **issues**.
 
-### `npm run build`
+⭐ Adicionando aos favoritos (**star**).
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Lembre-se, você tem o direito de realizar uma reunião com o Screem Master da Equipe para tirar dúvidas e discutir o projeto.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Aproveite e bons estudos! 🚀
